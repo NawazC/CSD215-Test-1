@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "o6W6a0diMqxcmoFfTLg07qLcXx1tj842MLsf8zYKhe+kcjW2j4S0YGzRRqctAIHD6SFnbw8an6Vpxbq1YKDm0A==",
+  "dgSpecHash": "Xb3yQ5SrsCrDkN7ECRWao/9tgQweLMZ6mk+ZX6X5ARV0gWgkk916wXYcbshfsHpsR2u5hseX3MSrA1C9TShlGA==",
   "success": true,
   "projectFilePath": "C:\\MyPro\\MyFSharpApp\\MyFSharpApp.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nawaz.Chowdhury\\.nuget\\packages\\fsharp.core\\7.0.401\\fsharp.core.7.0.401.nupkg.sha512"
+    "C:\\Users\\Nawaz.Chowdhury\\.nuget\\packages\\fsharp.core\\7.0.402\\fsharp.core.7.0.402.nupkg.sha512"
   ],
   "logs": []
 }

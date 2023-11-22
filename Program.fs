@@ -1,26 +1,12 @@
-﻿let  f = fun f-> f>500
+﻿let x = (3,2)
 
-let procutlist = [300;400;550;600;545]
+let (a,b)= x
 
-let costlyPrroduct= procutlist |> List.filter f
+printfn "%d" a
 
-costlyPrroduct |> List.iter (printfn "%d")
+type y = { m:int ; n:int }
 
- 
+let  l= {m=2;n=3}
 
-let taxedProduct =
-    List.map (fun price ->
-        if price < 500 then float price + float price * 0.15
-        elif price >= 500 then float price + float price * 0.20
-        else float price
-    ) procutlist
- 
-
-
-printfn "Taxed Product: %A" taxedProduct
-
-let sumOfProducts = List.fold (fun acc price -> acc + price) 0 procutlist
-
-printfn "Sum of Products: %d" sumOfProducts
-
+let j = {n=3;m=2}
 

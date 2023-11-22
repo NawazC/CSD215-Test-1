@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "FSharp.Core/7.0.401": {
+      "FSharp.Core/7.0.402": {
         "type": "package",
         "compile": {
           "lib/netstandard2.1/FSharp.Core.dll": {
@@ -59,15 +59,15 @@
     }
   },
   "libraries": {
-    "FSharp.Core/7.0.401": {
-      "sha512": "ZL16YHLJnkosMooVXjvJH0vGf7O4RSNtCpA/qw6OAHYxPCYSZRc5pKFTpDeDLdSWpOJDaZlveKcn42F0UDo77A==",
+    "FSharp.Core/7.0.402": {
+      "sha512": "BRroW3i8q19jnAw0C/sfHkafwrS1lPtLF3YCcR+O3n1LnbJPTrbp8YVHauS8sJ1fMxiZjK/oEDfBu17bnCXgvw==",
       "type": "package",
-      "path": "fsharp.core/7.0.401",
+      "path": "fsharp.core/7.0.402",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
-        "fsharp.core.7.0.401.nupkg.sha512",
+        "fsharp.core.7.0.402.nupkg.sha512",
         "fsharp.core.nuspec",
         "lib/netstandard2.0/FSharp.Core.dll",
         "lib/netstandard2.0/FSharp.Core.xml",
@@ -104,7 +104,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "FSharp.Core >= 7.0.401"
+      "FSharp.Core >= 7.0.402"
     ]
   },
   "packageFolders": {
@@ -126,7 +126,7 @@
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\sdk\\7.0.403\\FSharp\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.404\\FSharp\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -143,7 +143,7 @@
           "FSharp.Core": {
             "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
             "target": "Package",
-            "version": "[7.0.401, )",
+            "version": "[7.0.402, )",
             "generatePathProperty": true
           }
         },
@@ -163,7 +163,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
